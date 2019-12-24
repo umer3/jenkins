@@ -5,7 +5,7 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
-import re
+
 import unittest
 from selenium.webdriver import ActionChains
 
